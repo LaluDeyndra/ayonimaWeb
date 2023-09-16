@@ -9,7 +9,7 @@
 
 body {
     min-height: 100vh;
-    background: url(https://images.wallpaperscraft.com/image/single/tokyo_night_city_skyscrapers_121628_1366x768.jpg) no-repeat;
+    background: url(https://wallpapers.net/web/wallpapers/anime-sunset-hd-wallpaper/1366x768.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -137,4 +137,8 @@ header {
         opacity: 1;
         transition-delay: calc(.15s * var(--i));
      }
+}
+
+#home {
+    text-align: center;
 }
